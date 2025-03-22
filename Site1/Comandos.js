@@ -1,6 +1,6 @@
 function pegar_resposta() {
     var resposta = prompt("Digite a resposta");
-    if (resposta == "Bem-vindo/a") or (resposta == "De nada"){
+    if (resposta == "Bem-vindo/a" || resposta == "De nada"){
         window.location.href = "Fase2.html"
     }
     else if (resposta == "Esta indo bem"){
