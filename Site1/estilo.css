@@ -1,0 +1,65 @@
+body {
+    background-color: whitesmoke;
+}
+
+.titulo {
+    text-align: center;
+    color: black;
+}
+
+
+/* botoes da pagina de inicio */
+.btns {
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    font-size: 32px;
+    transition: transform 0.1s ease-in-out;
+}
+
+.btns_2 {
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    font-size: 32px;
+    transition: transform 0.1s ease-in-out;
+}
+
+
+.btns_2:hover {
+    transform: scale(0.8);
+}
+.btns:hover {
+    transform: scale(0.8);
+}
+/**/
+
+
+/* botao de resposta */
+.fases {
+    background-color: black;
+}
+
+
+
+
+.button_rps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color: aliceblue;
+}
+
+/**/
+
+/* Centralizar */
+
+.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
